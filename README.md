@@ -1,3 +1,5 @@
+Checkout game art and technique at : http://jastejsehra.com/game.html
+
 # TheWar-2D-Platformer-Game
 
 Created a Platformer (Mario-styled) game from concept sketches to deployment using core Java (Processing Library of Java), by implementing game physics via hardcoding trigonometric functions and vector functions.
