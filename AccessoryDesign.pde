@@ -20,8 +20,9 @@ class AccessoryDeisgn {
      translate(pos.x, pos.y);
      rect(-dim.x/2 , -dim.y/2 , dim.x , dim .y);               //transparent block behind the HUD Sword
      image(ImgHUD, -dim.x/2 , -dim.y/2);                       //draw Swordd image
-
+     
    popMatrix();
+   
    
 
   }
